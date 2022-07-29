@@ -1,0 +1,33 @@
+.brushes {
+    background-color: mediumspringgreen;
+
+}
+p {
+    font-family: Helvetica;
+    
+}
+.frames {
+    background-color: lightcoral;
+
+}
+
+h5 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h1 {
+    background-image: url(./Images/pattern.jpeg);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
